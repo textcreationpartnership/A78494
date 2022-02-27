@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain queries lovingly propounded to Mr. William Prynne, to be by him ingenuously resolved, from his large treatise, entituled, The soveraigne power of parliaments: concerning 1. The peoples power of electing, recalling, and punishing their parliament-men. 2. Parliament-mens wages and rewards. 3. Parliament-proceedings. 4. Power of parliaments. 5. The peoples power of electing synod-men. 6. A perpetuall Parliament. 7. The three estates in Parliament. 8. An order, or ordinance of Parliament. 9. Parliament protections. 10. The Parliament and armies case.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78494</idno>
+            <idno type="STC">Wing C1739</idno>
+            <idno type="STC">Thomason E398_22</idno>
+            <idno type="STC">ESTC R201698</idno>
+            <idno type="EEBO-CITATION">99862197</idno>
+            <idno type="PROQUEST">99862197</idno>
+            <idno type="VID">160375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160375)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain queries lovingly propounded to Mr. William Prynne, to be by him ingenuously resolved, from his large treatise, entituled, The soveraigne power of parliaments: concerning 1. The peoples power of electing, recalling, and punishing their parliament-men. 2. Parliament-mens wages and rewards. 3. Parliament-proceedings. 4. Power of parliaments. 5. The peoples power of electing synod-men. 6. A perpetuall Parliament. 7. The three estates in Parliament. 8. An order, or ordinance of Parliament. 9. Parliament protections. 10. The Parliament and armies case.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare of liberty, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  Soveraigne power of parliaments and kingdomes --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160375:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <p>CERTAIN QUERIES Lovingly propounded to M<hi rend="sup">r</hi>. WILLIAM PRYNNE, To be by him ingenuouſly reſolved, from his large Treatiſe, entituled, <hi>The Soveraigne Power of Parliaments:</hi>
+            </p>
+            <p>CONCERNING
+<list>
+                  <item>1. The Peoples power of electing, recalling, and puniſhing t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eir Parliament-men.</item>
+                  <item>2. Parliament-mens wages and rewards.</item>
+                  <item>3. Parliament-proceedings.</item>
+                  <item>4. Power of Parliaments.</item>
+                  <item>5. The Peoples power of electing Synod-men.</item>
+                  <item>6. A perpetuall Parliament.</item>
+                  <item>7. The three Eſtates in Parliament.</item>
+                  <item>8. An Order, or Ordinance of Parliament.</item>
+                  <item>9. Parliament Protections.</item>
+                  <item>10. The Parliament and Armies Caſe.</item>
+               </list>
+            </p>
+            <q xml:lang="lat">Bonum eſt omnia ſcire.</q>
+            <q>It is good to know all things.</q>
+            <p>
+               <date>
+                  <add>July. 16</add>
+               </date>Printed in the yeare of Liberty, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:160375:2"/>
+            <!-- PDF PAGE 115 -->
+            <div n="1" type="part">
+               <head>I. <hi>Queries concerning the Peoples power of electing, re-calling, and puni<gap reason="illegible: bleedthrough" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ing their Parliament-men.</hi>
+               </head>
+               <p>WHether is it not the undoubted liberty of the Subject to chooſe their Parliament-men.</p>
+               <p>Whether have Parliament-men ſo choſen any power to <gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>preſent or act for the People, further then they have commiſſion from thoſe that choſe them?</p>
+               <p>Whether may Parliament-men ſo choſen, act, or go beyond the commiſſi<g ref="char:EOLhyphen"/>on which they received from thoſe that choſe them?</p>
+               <p>Whether are not all Parliament-men to be accountable to the reſpective Cou<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ties and Corporations that choſe them?</p>
+               <p>Whether may not all Parliament-men be found to have an unlimited power, even to deſtroy their reſpective Counties and Corporations, unleſſe they were to be accountable unto the ſaid Counties and Corporations?</p>
+               <p>Whether if any Parliament-men refuſe, are negligent, or unable to diſ<g ref="char:EOLhyphen"/>charge the great truſt repoſed in them; may not the reſpective Counties and Corporations recall them back again as often as they pleaſe, and ſend o<g ref="char:EOLhyphen"/>thers more honeſt, diligent, &amp; better qualifi'd for diſcharging ſo great a truſt?</p>
+               <p>Whether is any Parliament-men ſhall betray the truſt repoſed in them may not their reſpective Counties and Corporations proceed to puniſh them by fines, impriſonment, or death, according to the magnitude of their of<g ref="char:EOLhyphen"/>fences?</p>
+               <p>Whether would it ever a whit the more indanger the being of Parlia<g ref="char:EOLhyphen"/>ments, though never ſo many of the Members of both or either Houſe were queſtioned and puniſhed for their unjuſt breach of truſt; then if ſo many corrupt Judges of the Courts at Weſtminſter were executed for their inju<g ref="char:EOLhyphen"/>ſtice or bribery, and honeſt men choſen in their places?</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>Concerning Parliament-mens wages and rewards.</hi>
+               </head>
+               <p>Whether doth it not onely concern the reſpective Counties and Corpo<g ref="char:EOLhyphen"/>rations to make allowance unto their reſpective Parliament-men for their ordinary expences, and reward them for the in extraordinary ſervices?</p>
+               <p>Whether is it more in the power of Parliament-men to receive the King<g ref="char:EOLhyphen"/>domes moneyes, and diſtribute them amongſt themſelves, 5000. l. 10000. l. of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0000. l. apeec<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: bleedthrough" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>on whatſoever pretences; then it is for ſo many Ap<g ref="char:EOLhyphen"/>prentices or other ſervants to be their own carvers, to pick their maſters pockets, and take the moneyes out of their maſters caſh-cheſts, dividing them amongſt themſelves, according to what proportion they pleaſe, for wages <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reward?</p>
+               <p>
+                  <pb n="3" facs="tcp:160375:2"/>
+                  <!-- PDF PAGE 115 -->
+Whether are not ſuch Parliament-men as liable to be puniſhed by the known Lawes of England, as Apprentices for fingering and diſpoſing of their Maſters moneyes without commiſſion or conſent?</p>
+               <p>Whether ought not all ſuch moneys, weekly penſions, and pretended re<g ref="char:EOLhyphen"/>wards &amp; conſiderations already received by any Parliament-men, be brought into a publike Treaſury for paiment of the Kingdomes juſt debts; and not onely ſuch as received them, but ſuch alſo as ſo profuſely gave them, be made exemplary by ſome note or other, for thus arbitrarily diſpoſing of the King<g ref="char:EOLhyphen"/>domes ſtock?</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>Parliament proceedings.</hi>
+               </head>
+               <p>Whether have not many of theſe preſent Parliament-men behaved them<g ref="char:EOLhyphen"/>ſelves towards the people more like domineering Maſters and Tyrants, then Repreſentatives and Servants?</p>
+               <p>Whether ought the high Court of Parliament to entertaine any cauſes, ſave ſuch as could not elſwhere find relief, or had been unduly ſentenced in other Courts of Juſtice?</p>
+               <p>Whether in this preſent Parliament have not Petitions been chiefly admit<g ref="char:EOLhyphen"/>ted through favour, or rejected for want of friends?</p>
+               <p>Whether are not all Parliament-men cenſurable by their reſpective Coun<g ref="char:EOLhyphen"/>ties and Corporations, for refuſing to receive, or acquaint the Houſe with ſuch Petitions as have been given them, by any one, or more members of their reſpective Counties and Corporations?</p>
+               <p>Whether ought not the debates, and all proceedings of Parliament, with their ſubordinate Committees, except ſome few, which may require ſecrecy be made more publike, if poſſible, then any of the Courts at Weſtminſter?</p>
+               <p>Whether ought not the Records, or Books of either Houſe, lie open and free for any one to peruſe, with ſuch reſtriction onely and over-ſight, as may ſecure them from being perverted or defaced?</p>
+               <p>Whether ought not any Subject of <hi>England</hi> to have a copie of any Act, Ordinance, Order, or Vote of either Houſe, at ſuch cheapeſt rates, as may onely produce the Officers a livelihood?</p>
+               <p>Whether is it not requiſite that a Parliament being once begun, no Mem<g ref="char:EOLhyphen"/>ber ſhould abſent himſelfe without expreſſe leave, upon apparent danger of health; and in ſuch caſe, another forthwith to be choſen in his place?</p>
+               <p>Whether is it not requiſite, that nothing paſſe as voted in either Houſe, without three quarters of an exact full Houſe; that is, three quarters of ſo many Members as each Houſe conſiſts of.</p>
+               <p>Whether is it not requiſite, that every particular Parliament-mans name be regiſtred, with his reſpective <hi>Yes</hi> or <hi>No,</hi> unto each Vote, that each
+<pb n="4" facs="tcp:160375:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 116 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:160375:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 116 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:160375:4"/>
+                  <!-- PDF PAGE 117 -->County, Corporation, or any particular man may ſee how they behave themſelves upon all occaſions?</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>Power of Parliaments.</hi>
+               </head>
+               <p>Whether were it not moſt unlawfull and irrationall, to ſuppoſe that Parliament-men or any other number of people may have an unqueſtion<g ref="char:EOLhyphen"/>able or unlimited power, to live how they liſt or doe what they liſt, without controule or being accountable?</p>
+               <p>Whether were not ſuch an unlimited power in any number of people deſtructive is a Nation?</p>
+               <p>Whether is not ſuch mens power to bee interpreted unlimited and boundleſſe, as have no other rule for what they doe, beſides their own will and pleaſure?</p>
+            </div>
+            <div n="5" type="part">
+               <head>V. <hi>The peoples power of electing Synod-men.</hi>
+               </head>
+               <p>Whether have theſe preſent Parliament-men any Power or Commiſſion beſides their owne will and pleaſure, to alter or ſet up a new Religion?</p>
+               <p>Whether if theſe Parliament-men have power to alter our Religion, may they not poſſibly reduce it unto Popery againe, or ſet up ſuch a new one, as yet was never heard of or imagined?</p>
+               <p>Whether if they ſhould ſet up Poperie, or any other new-faſhioned Re<g ref="char:EOLhyphen"/>ligion, make new Creeds and Service-Bookes, muſt wee not either con<g ref="char:EOLhyphen"/>forme unto them, or ſay, they had no Commiſſion for ſetting of them up?</p>
+               <p>Whether is there any knowne Law for enabling of a Parliament to ch<gap reason="illegible: in gutter" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> a Synod, in ſuch manner as that now aſſembled at Weſtminſter was choſen?</p>
+               <p>Whether is not the power in the people for chooſing Synod-men, as wel<gap reason="illegible: in gutter" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> as Parliament-men?</p>
+               <p>Whether was it not an extraordinarie breach upon the Subjects Libert<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for theſe preſent Parliament-men to take upon them the chooſing Synod-men in ſuch manner as they did?</p>
+               <p>Whether by that Act of chooſing Synod-men, and reſerving the laſt ap<g ref="char:EOLhyphen"/>peaſe of all Synod matters unto themſelves, together <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th their arbitr<gap reason="illegible: in gutter" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> proceedings in Civill matters, and their endeavouring to perpetuate bo<gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> one and other, doth it not appeare, that theſe p<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Parliament-men in<g ref="char:EOLhyphen"/>tended to inthrall the whole Kingdome bot<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in C<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ll and Church-mat<g ref="char:EOLhyphen"/>ters unto themſelves, their ſons, kindred and alliance, un<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the worlds end?</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. <hi>A perpetuall Parliament.</hi>
+               </head>
+               <p>Whether a King of Monarch who is but one, if he ſhould degenerate unto a Tyrant, be not eaſier to be ſuppreſſed then 500. Parliament-men, they turne Tyrants?</p>
+               <p>Whether hath not a perpetuall Parliament a capacity of preferring their
+<pb n="5" facs="tcp:160375:4"/>
+                  <!-- PDF PAGE 117 -->ſons kindred and alliance throughout the whole Kingdome to bee choſen Parliament-men inſtead of ſuch as die or ſhall be voted out at pleaſure for not being of their faction even to the worlds end?</p>
+               <p>Whether hath not a perpetuall Parliament a capacity of intruſting none with the <hi>Militia</hi> throughout the Kingdome, beſides their ſons, kindred and alliance, unto the worlds end?</p>
+               <p>Whether hath not a perpetuall Parliament a capacity of preferring their ſons, kindred and alliance, to bee Committee-men throughout the whole Kingdome, unto the words end?</p>
+               <p>Whether hath not a perpetuall Parliament the like capacity of preferring their ſons, kindred, and alliance, to be Judges, and Juſtices of the peace, and unto all Offices, both of repute and profit, throughout the whole King<g ref="char:EOLhyphen"/>dome unto the worlds end?</p>
+               <p>Whether hath not a perpetuall Parliament a capacity of preferring their ſons, kindred and alliance, to have the ſole command of the Navie unto the worlds end?</p>
+               <p>Whether this perpetuall Parliament, with their ſons kindred and alli<g ref="char:EOLhyphen"/>ance, being the ſole Committee-men, and having all Offices of repute and profit in their own hands, together with the ſole command of the <hi>Militia,</hi> both by <hi>Sea</hi> and <hi>Land,</hi> have not a capacity of becoming, the moſt abſolute Tyrants which this Kingdome, or any Nation under the cope of heaven, ever endured?</p>
+               <p>Since the Act for the Trienniall Parliament was paſſed in the <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of King <hi>Charles,</hi> &amp; that Act for not diſſolving this preſent Parliament without <gap reason="illegible: bleedthrough" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſent of both Houſes, not till the 17<g ref="char:punc">▪</g> of K. <hi>Charles;</hi> Whether were it not a contradiction, and a meer nullifying of the firſt Act of the 16<g ref="char:punc">▪</g> of K. <hi>Charles,</hi> to intend that this preſent Parliament ſhould not have had a convement end, even within three yeers, that the Trienniall Parliament might have had its due beginning according to the ſaid firſt Act of the 16<g ref="char:punc">▪</g> of K. <hi>Charles?</hi>
+               </p>
+               <p>Whether is not a perpetuall Parliament prejudiciall to every man beſides theſe preſent Parliament-men, their ſons, kindred, and alliance; who by this meanes, are bereft of the honour of ſerving their Country in Par<g ref="char:EOLhyphen"/>liament, when they ſhould be called unto it?</p>
+               <p>Whether is not a perpetuall Parliament prejudiciall to the whoſe King<g ref="char:EOLhyphen"/>dome in generall, which hath no poſſibilitie of enjoying the <gap reason="illegible: bleedthrough" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> abili<g ref="char:EOLhyphen"/>ties, or talents of any others, beſides ſuch as are preſent Parliament-men, their ſons, kindred or alliance?</p>
+               <p>Whether was it more in the Kings power to make a perpetuall Parlia<g ref="char:EOLhyphen"/>ment, then to cauſe that there ſhould never be any Parliament again?</p>
+               <p>
+                  <pb n="6" facs="tcp:160375:5"/>
+                  <!-- PDF PAGE 118 -->
+Whether was not the going about to eſtabliſh a perpetuall Parliament the greateſt breach of the Subjects Liberty, which was ever made upon them<g ref="char:punc">▪</g>
+               </p>
+               <p>Whether are not ſuch as were moſt active in the Houſes to contrive it, or adviſing of the King to paſſe it, with all others endeavouring to being about this perpetuall Parliament, guilty of higheſt Treaſon which ever was committed, and moſt worthy to be queſtioned and puniſhed, as the moſt deſtructive of all Counſellours both againſt King and Parliament, un<g ref="char:EOLhyphen"/>leſſe they can make their innocence appeare more clearely then hitherto it doth? and conſequently,</p>
+               <p>Whether ought we not to be more jealous of a Hydra, a many-headed Tyranny, then of Monarchy, which having but one head, may eaſier be re<g ref="char:EOLhyphen"/>duced upon any occaſion of exorbitancy? and laſtly,</p>
+               <p>Whether are not both King and People obliged both towards their God and Countrey, for bending all their might and maine to breake on and put a period unto this perpetuall Parliament?</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII. <hi>The three Eſtates in Parliament.</hi>
+               </head>
+               <p>Whether is it not the firſt fundamentall Law, or rather the corner-ſtone and ground-work of all the Lawes of England; that no old Law ſhall be re<g ref="char:EOLhyphen"/>pealed, nor new Law made without concurrence of all the three E<g ref="char:EOLhyphen"/>ſtates in Parliament?</p>
+               <p>Whether are not theſe three Eſtates in Parliament, the King, the Lords, the Commons?</p>
+               <p>Whether may it not be preſumed an extraordinary policie in our Ance<g ref="char:EOLhyphen"/>ſtors, to eſtabliſh the foundation of all our Lawes and Government rather upon theſe three Eſtates, then upon two or one?</p>
+               <p>Whether according to the old Proverb, that it is better to have two ſtrings to a bow then one, is it not more hazardous to have old Lawes re<g ref="char:EOLhyphen"/>pealed, or new Lawes made by one or two Eſtates only, then by all three Eſtates in Parliament?</p>
+               <p>Whether is not the deniall of a negative voyce to either of the three E<g ref="char:EOLhyphen"/>ſtates in Parliament, a reducing of the three Eſtates, unto a leſſer number?</p>
+               <p>Whether doe not ſuch go about to overthrow the ground-work, of all the fundamentall Lawes, who endeavour to reduce the three Eſtates in Par<g ref="char:EOLhyphen"/>liament to two, or one?</p>
+               <p>Whether are not ſuch to be queſtioned and proceeded againſt as Arch<g ref="char:EOLhyphen"/>traytors to their Country, who go about to overthrow the very ground-work of all the fundamentall Lawes of the Kingdome, and ſeek to intro<g ref="char:EOLhyphen"/>duce a Government more hazardous, or leſſe politick, then what our Ance<g ref="char:EOLhyphen"/>ſtors had ſetled ſo long ſince, and proſpered ſo well withall?</p>
+            </div>
+            <div n="8" type="part">
+               <pb n="7" facs="tcp:160375:5"/>
+               <!-- PDF PAGE 118 -->
+               <head>VIII. <hi>As Order</hi> or <hi>Ordinance</hi> of <hi>Parliament.</hi>
+               </head>
+               <p>Whether is not in Act of Parliament, of more validity, and more bind<g ref="char:EOLhyphen"/>ing, then in Ordinance, or abate Proclamation or ſingle Order of either Houſe of Parliament?</p>
+               <p>Whether is the acting by a bare Ordinance as warrantable, as by an Act of all the three Eſtates in Parliament?</p>
+               <p>Whether according to the known Lawes of England, may not the three Eſtates in Parliament aſſembled, queſtion, and even puniſh all ſuch as have at any time acted by an Ordinance, or Order of either Houſe of Parliament?</p>
+               <p>Whether then doth is not exceedingly concern the whole Kingdome, that an Act of oblition bepaſſed, for all ſuch matters as have been tranſacted without the Royall aſſent, ſince the beginning of this Parliament?</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX. <hi>Parliament Protections.</hi>
+               </head>
+               <p>Whether is there laity <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that the Eſtates of Parliament-men, whether Lords or Commons, ſh<gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld be exempted from paying of their juſt debts; much leſſe the Eſtates of their ſervants, or perſons of whomſoever they pro<g ref="char:EOLhyphen"/>tect; and leaſt of all, when a Parliament ſhall be ſpun out into ſuch an ever<g ref="char:EOLhyphen"/>laſtingneſſe?</p>
+               <p>Whether the keeping Parliament-mens Eſtates, both of Lords and Com<g ref="char:EOLhyphen"/>mons, from being ſubject to pay debts, hath not likely been an effect of the tyrannous uſurpation of Parliaments, rather then any juſt Law or practice?</p>
+               <p>Whether have not theſe Parliament-mens ſo long exempting their eſtates from paying debts, expreſſed them to be meer ſelf-ſeekers, done them much hurt and diſcredit, and even diſhonoured Parliaments, as much as any one act of theirs?</p>
+               <p>Whether may it is not to be ſuppoſed that no act hath ſo much alienated the minds of London from theſe preſent Parliament-men, as their not paying their private debts unto the Citizens, to whom ſo many of them, both Lords and Commons, are ſo much engaged?</p>
+               <p>Whether is it not probably to be judged, that many men have uſed in<g ref="char:EOLhyphen"/>direct meanes to get themſelves choſen Parliament-men, that they might thereby exempt both their perſons and eſtates from paying debts, and be at liberty to cozen their fellow-ſubjects by priviledge of Parliament?</p>
+               <p>Whether have not many men with their whole families, not only much ſuffered, but beene quite undone, through the death of ſo many Parliament-men, both Lords and Commons, during the over-growne Seſſion of this everlaſting Parliament?</p>
+               <p>Whether is it not moſt of all unreaſonable and unjuſt, that ſuch Lords as have not beene ſuffered to ſit in the Houſe of Peeres for their malignancy,
+<pb n="8" facs="tcp:160375:6"/>
+                  <!-- PDF PAGE 119 -->ſhould yet their eſtates protected by the ſame Houſe, from paying of their debts; whilſt ſuch as were diſmiſſed the Houſe of Commo<gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for the ſame cauſe, became liable to payment of their <gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebts<g ref="char:punc">▪</g> both in their <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and eſtates? And laſtly,</p>
+               <p>Whether if there had been any colourable Law or Cuſtome formerly for freeing Parliament-mens eſtates from paying debts, were it not a moſt <gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>centio<gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and unwarrantable Law or Cuſtom <gap reason="illegible: bleedthrough" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X. <hi>The Parliament and Armies Caſe</hi>
+               </head>
+               <p>By what know Law doth it appeare, that this preſent Parliament ha<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any other rule or ground for levying of a war, and keeping Armies on foot; beſide the extreame neceſſity there of, for preſervation of the Kingdome, or their partie rather?</p>
+               <p>Whether hath not the Army under the command of Sir <hi>Thomas Fairfax,</hi> the ſelfe-ſame ground of extreameſt neceſſity, not to disband, untill they ſee themſelves and partie ſecured, by the ſettlement of the Kingdome?</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
